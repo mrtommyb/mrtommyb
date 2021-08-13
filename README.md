@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Tom
+
+I'm an Associate Research Scientist within the [Center for Space Science and Technology at UMBC](https://csst.umbc.edu/). I work on NASA spaceflight mission such as [TESS](bit.ly/tessgi) and Kepler. I have a crazy mess of repositories, sorry.
 
 <!--
 **mrtommyb/mrtommyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌐 [tombarclay.com](tombarclay.com)
+- 🐦 [@mrtommyb](https://twitter.com/mrtommyb)
+- ✉️ [tomsbarclay@gmail.com](mailto:tomsbarclay@gmail.com)
